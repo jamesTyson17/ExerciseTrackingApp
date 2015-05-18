@@ -1,0 +1,18 @@
+1429568645794	Rename package 'com.sudarmuthu.android.wt.activities'
+1429568694834	Rename package 'com.sudarmuthu.android.wt.app'
+1429568710771	Rename package 'com.sudarmuthu.android.wt.data'
+1429568729584	Rename package 'com.sudarmuthu.android.wt.graph'
+1429650935917	Rename type 'WorkoutTrackerApp'
+1429653629498	Rename type 'EntriesDateActivity'
+1429653660280	Rename type 'EntriesGraphActivity'
+1429653673171	Rename type 'EntriesListActivity'
+1429653767236	Rename type 'EntriesStatsActivity'
+1429653811883	Rename type 'ShowExercisesListActivity'
+1429653830667	Rename type 'TabWidget'
+1429653869226	Rename type 'TabWidgethelp'
+1429653962651	Rename type 'DBConstants'
+1429653977772	Rename type 'DBData'
+1429653995489	Rename type 'DBUtil'
+1429665599333	Rename resource 'login.xml'
+1429677215654	Delete element
+1429677289904	Delete element

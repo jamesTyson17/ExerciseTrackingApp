@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timer">00:00:00</string>
+    <string name="timerMs">.0</string>
+    <string name="startText">start</string>
+    <string name="resetText">reset</string>
+    <string name="stopText">stop</string>
+    <string name="backgroundText">Stopwatch</string>
+    <string name="adsText">Ads Go Here</string>
+    <string name="menu_group_by_none">Clear Groupings</string>
+    <string name="menu_group_by">Group by</string>
+    <string name="menu_entry_group_date">Total per day</string>
+    <string name="menu_delete_entry">Delete Entry</string>
+    <string name="menu_entry_edit">Edit Entry</string>
+    <string name="exercise_name">Exercise Name: </string>
+    <string name="value">Value:</string>
+    <string name="add_entry">Add Entry</string>
+    <string name="menu_about">About</string>
+    <string name="menu_add_exercise">Add Exercise</string>
+    <string name="app_name">Exercise Tracking</string>
+    <string name="add_exercise_title">Add new exercise to track</string>
+    <string name="add">Add %s</string>
+    <string name="exercise_saved">The new exercise has been saved</string>
+    <string name="entry_saved">The new entry has been saved</string>
+    <string name="entry_deleted">The selected entry was deleted</string>
+    <string name="entry_edited">The selected entry was updated</string>
+    <string name="edit">Edit %s</string>
+    <string name="cancel">Cancel</string>
+    <string name="menu_group_by_max">Max per day</string>
+    <string name="tab_list">Lists</string>
+    <string name="tab_graph">Graph</string>
+    <string name="tab_stats">Stats</string>
+    <string name="tab_meter">StopWatch</string>
+
+    <string-array name="default_sorts">
+        <item>Sort by Date - Desc</item>
+        <item>Sort by Date - Asc</item>
+        <item>Sort by Value - Desc</item>
+        <item>Sort by Value - Asc</item>
+    </string-array>
+
+    <string name="edit_button">Edit</string>
+    <string name="exercise">Exercise</string>
+    <string name="edit_exercise">Edit</string>
+    <string name="delete_exercise">Delete</string>
+    <string name="exercise_deleted">The selected Exercise was deleted</string>
+    <string name="statistics">Statistics</string>
+    <string name="count">Times Workout Done: </string>
+    <string name="sum">Total Reps: </string>
+    <string name="average">Average Reps: </string>
+    <string name="value_range">Value Range</string>
+    <string name="from">Lowest Number of reps: </string>
+    <string name="to">Higest Number of Reps: </string>
+    <string name="title_activity_stop_watch">StopWatch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
